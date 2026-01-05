@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body{
+    font-family: "sans-seriff";
+    font-size: 2em;
+    
+}
+a > p{
+    font-family: "impact";
+    font-size: 1em;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    max-width: 2.4em;
+    border-radius: 0.2em;
+    
+}
+
+a{
+    text-decoration: none
+}
+
+#Header{
+    font-family: Impact;
+}
+
+#Paragraph{
+    font-family: 'Times New Roman';
+}
